@@ -1,13 +1,15 @@
 // ==UserScript==
 // @name         is.gd - Auto-Show All Referrers
-// @author       PixelSpark987 - https://is.gd/PS987
 // @description  Automatically clicks "Show more referrers" links on is.gd stats pages
+// @author       PixelSpark987 - https://is.gd/PS987
 // @namespace    http://tampermonkey.net/
-// @version      1.1
+// @version      2026-11-16_01
 // @downloadURL  https://raw.githubusercontent.com/PixelSpark987/isgd-show-all-referrers/refs/heads/main/isgd%20-%20Auto-Show%20All%20Referrers.js
 // @updateURL    https://raw.githubusercontent.com/PixelSpark987/isgd-show-all-referrers/refs/heads/main/isgd%20-%20Auto-Show%20All%20Referrers.js
 // @match        https://is.gd/stats.php*
+// @match        https://www.is.gd/stats.php*
 // @match        https://v.gd/stats.php*
+// @match        https://www.v.gd/stats.php*
 // @grant        none
 // @run-at       document-end
 // ==/UserScript==
